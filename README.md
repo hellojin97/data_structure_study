@@ -19,9 +19,9 @@ O(C^n) – 지수 시간 : 문제를 해결하기 위한 단계의 수는 주어
 ### 📚Today I Learned
     나 공부했어요...! 했다구요...🥹
     
-- 02/04
-    [1. Overview](00_Overview.ipynb)
-    [2. Data structure](01_data_structure.ipynb)
+- 02/04  
+    - [1. Overview](00_Overview.ipynb)  
+    - [2. Data structure](01_data_structure.ipynb)
 
 ### 참고 링크
 - (알고리즘의 시간 복잡의 big-O 표기)[https://blog.chulgil.me/algorithm/]
